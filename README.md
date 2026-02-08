@@ -4,7 +4,7 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 </h3>
 
 <p align="center">
-Turning raw data into meaningful insights 🚀
+🚀 Turning raw data into meaningful insights
 </p>
 
 <p align="center">
@@ -17,113 +17,105 @@ Turning raw data into meaningful insights 🚀
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yashajagtap999&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=yashajagtap999&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Aspiring **Machine Learning Engineer & Data Analyst**
-- 🔭 Currently working on **Movie Recommendation Systems**
-- 🌱 Learning **Machine Learning, NLP, Data Analytics & Model Deployment**
-- 👯 Open to collaborate on **ML / Data Science projects**
-- 🤝 Looking for guidance on **Model Optimization & AWS Deployment**
-- ⚡ Fun fact: *I enjoy converting complex data into clear stories*
+- 🎓 **TY BTech – Artificial Intelligence & Machine Learning**
+- 🔭 Working on **Machine Learning & Recommendation Systems**
+- 🌱 Learning **ML, NLP, Data Analytics & Model Deployment**
+- 👯 Open to collaborate on **Data Science / ML projects**
+- 🤝 Exploring **AWS & Production ML**
+- ⚡ Fun fact: *I enjoy converting complex data into simple insights*
+
+---
+## 🎓 Education
+
+**Bachelor of Technology (BTech)**  
+**Artificial Intelligence & Machine Learning (AI & ML)**  
+📌 Third Year (TY)  
+📊 **CGPA: 9.6**
 
 ---
 
 ## 🧠 Skills & Expertise
 
 ### 🔹 Programming & Core
-- Python, C++
-- SQL, MySQL
-- Data Structures & Algorithms (Basics)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" /> C++ &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" /> SQL / MySQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" /> GitHub
+</p>
 
-### 🔹 Data Analysis & Visualization
-- Pandas, NumPy
-- Matplotlib, Plotly
-- Exploratory Data Analysis (EDA)
+---
+
+### 🔹 Data Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas" /> Pandas &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" /> NumPy &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue?style=flat"/>
+</p>
+
+---
+
+### 🔹 Data Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=matplotlib" /> Matplotlib &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-lightblue?style=flat"/>
+</p>
+
+---
 
 ### 🔹 Machine Learning & AI
-- Scikit-learn
-- TensorFlow, Keras
-- PyTorch
-- NLP (Text Processing, Feature Engineering)
-- Recommendation Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=scikit-learn" /> Scikit-learn &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" /> TensorFlow &nbsp;&nbsp;
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-green?style=flat"/>
+  <img src="https://img.shields.io/badge/Recommendation%20Systems-ML-orange?style=flat"/>
+</p>
+
+---
 
 ### 🔹 Frameworks & Tools
-- Flask, FastAPI
-- Anaconda
-- MLflow
-- Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" /> FastAPI &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=anaconda" /> Anaconda &nbsp;&nbsp;
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎬 Movie Recommendation System
-🔗 [View Project](https://github.com/yashajagtap999/Movie-Recommendation-System)
+🔗 https://github.com/yashajagtap999/Movie-Recommendation-System  
 
-**Tech Used:**  
-Python | Pandas | Scikit-learn | NLP  
-
-**Highlights:**
 - Content-based recommendation engine  
-- Text vectorization & similarity matching  
+- NLP-based similarity matching  
 - End-to-end ML workflow  
 
 ---
 
-### 📊 Data Analysis Using Python
-🔗 [View Repository](https://github.com/yashajagtap999/DATA-ANALYSIS-USING-PYTHON)
-
-**What it includes:**
-- Python basics → advanced EDA  
-- Pandas, NumPy hands-on  
-- Visualization & insights  
-
----
-
-## 🎓 Education
-
-- **Bachelor’s Degree (Engineering / Relevant Field)**  
-  *(Add college name & year if you want later)*
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashajagtap999&show_icons=true&theme=yeblu"/>
-</p>
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=yashajagtap999&theme=yeblu"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashajagtap999&layout=compact&theme=yeblu"/>
-</p>
-
 ---
 
-## 🏆 Achievements & Contributions
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashajagtap999&theme=flat&row=1"/>
-</p>
-
----
-
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 - 📧 Email: **yashajagtap1@gmail.com**
-- 💼 LinkedIn: [Yash Jagtap](https://linkedin.com/in/yash-jagtap-9641ba300)
-- 🌍 GitHub: [@yashajagtap999](https://github.com/yashajagtap999)
+- 💼 LinkedIn: https://linkedin.com/in/yash-jagtap-9641ba300
+- 💻 GitHub: https://github.com/yashajagtap999
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider starring the repositories ⭐
-</p>
+
