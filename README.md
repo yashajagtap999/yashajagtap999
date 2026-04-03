@@ -32,7 +32,6 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 - ⚡ Fun fact: *I enjoy converting complex data into simple insights*
 
 ---
-
 ## 🎓 Education
 
 **Bachelor of Technology (BTech)**  
@@ -103,38 +102,13 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashajagtap999&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashajagtap999&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yashajagtap999&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-## 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashajagtap999&theme=tokyo-night"/>
-</p>
-
----
-
-## 📈 GitHub Streak
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=yashajagtap999&theme=yeblu"/>
 </p>
-
 ---
+
 
 ## 🤝 Connect With Me
 
@@ -144,7 +118,4 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 ---
 
-## 💬 Let's Collaborate!
-
-💡 Open for internships & ML projects  
-📩 Feel free to reach out — let's build something amazing! 🚀
+what changes you can do in it to make it attractive
