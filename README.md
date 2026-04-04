@@ -117,5 +117,3 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 - 💻 GitHub: https://github.com/yashajagtap999
 
 ---
-
-what changes you can do in it to make it attractive
