@@ -105,10 +105,16 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 ---
 
-## 📈 GitHub Stats <p align="center">
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yashajagtap999&theme=github-dark&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashajagtap999&show_icons=true&theme=github_dark&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashajagtap999&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-  <img src="https://streak-stats.demolab.com?user=yashajagtap999&theme=github-dark"/>
-</p>
+---
 
 ## 🤝 Connect With Me
 
