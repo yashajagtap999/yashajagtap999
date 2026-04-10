@@ -32,6 +32,7 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 - ⚡ Fun fact: *I enjoy converting complex data into simple insights*
 
 ---
+
 ## 🎓 Education
 
 **Bachelor of Technology (BTech)**  
@@ -57,6 +58,7 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 <p>
   <img src="https://skillicons.dev/icons?i=pandas" /> Pandas &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=numpy" /> NumPy &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/> Excel &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue?style=flat"/>
 </p>
 
@@ -66,6 +68,7 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 <p>
   <img src="https://skillicons.dev/icons?i=matplotlib" /> Matplotlib &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Seaborn-Visualization-lightblue?style=flat"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/> Power BI
 </p>
 
 ---
@@ -102,13 +105,10 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yashajagtap999&theme=yeblu"/>
+## 📈 GitHub Stats <p align="center">
 </p>
----
-
+  <img src="https://streak-stats.demolab.com?user=yashajagtap999&theme=github-dark"/>
+</p>
 
 ## 🤝 Connect With Me
 
