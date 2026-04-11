@@ -3,6 +3,11 @@
 Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 </h3>
 
+<!-- ✅ Typing Animation Added -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&center=true&vCenter=true&lines=Machine+Learning+Engineer;Python+Developer;Data+Analyst;NLP+Enthusiast;Turning+Data+into+Insights" />
+</p>
+
 <p align="center">
 🚀 Turning raw data into meaningful insights
 </p>
@@ -108,12 +113,22 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashajagtap999&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=yashajagtap999&theme=github-dark&hide_border=true&cache_seconds=86400"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=yashajagtap999&show_icons=true&theme=github_dark&hide_border=true"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashajagtap999&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+---
+
+<!-- ✅ Contribution Graph Added -->
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashajagtap999&theme=github-dark&hide_border=true"/>
+</p>
+
 ---
 
 ## 🤝 Connect With Me
