@@ -47,6 +47,25 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 ---
 
+## 🏆 Achievements & Certifications
+
+### 🥇 NPTEL – Human Computer Interaction (HCI)
+
+- 🎯 Scored **99%**
+- 🏅 Ranked among the **Top 2%** learners
+- 📚 Earned **Elite Certificate**
+- 🏛️ Conducted by **NPTEL & IIT Madras**
+- 👨‍🎓 Certified among **23,139 learners**
+
+<p>
+  <img src="https://img.shields.io/badge/NPTEL-Elite%20Certificate-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Score-99%25-brightgreen?style=flat"/>
+  <img src="https://img.shields.io/badge/Top-2%25-orange?style=flat"/>
+  <img src="https://img.shields.io/badge/IIT-Madras-red?style=flat"/>
+</p>
+
+---
+
 ## 🧠 Skills & Expertise
 
 ### 🔹 Programming & Core
@@ -115,7 +134,8 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=yashajagtap999&theme=tokyonight&background=0D1117&ring=FFD700&fire=FFFFFF&currStreakLabel=FFD700&hide_border=true" />
 </p>
-  <br/>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashajagtap999&show_icons=true&theme=github_dark&hide_border=true"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashajagtap999&layout=compact&theme=github_dark&hide_border=true"/>
@@ -123,7 +143,6 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 ---
 
-<!-- ✅ Contribution Graph Added -->
 ## 📊 Contribution Graph
 
 <p align="center">
