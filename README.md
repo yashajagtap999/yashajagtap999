@@ -121,7 +121,8 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 ## 🚀 Featured Projects
 
 ### 🎬 Movie Recommendation System
-🔗 https://github.com/yashajagtap999/Movie-Recommendation-System  
+🔗https://movie-recommendation-system-q4wtijvju43tsa8bt55r2t.streamlit.app/
+
 
 - Content-based recommendation engine  
 - NLP-based similarity matching  
