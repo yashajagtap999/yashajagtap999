@@ -120,15 +120,27 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 ## 🚀 Featured Projects
 
-### 🎬 Movie Recommendation System
-🔗https://movie-recommendation-system-q4wtijvju43tsa8bt55r2t.streamlit.app/
+### 🤖 EduAI – Career Advisor
+🌐 Website: https://edu-ai-career-advisor-xd95.vercel.app
 
-
-- Content-based recommendation engine  
-- NLP-based similarity matching  
-- End-to-end ML workflow  
+- AI-powered career guidance platform for students
+- Personalized career recommendations based on skills and interests
+- AI Resume Builder & ATS Resume Analysis
+- College Finder and Internship Recommendation System
+- AI Career Roadmap Generator
+- Interactive Career Analytics Dashboard
+- Responsive HTML, CSS & JavaScript frontend
+- FastAPI backend with Machine Learning integration
+- Deployed using **Vercel (Frontend)** and **Render (Backend)**
 
 ---
+
+### 🎬 Movie Recommendation System
+🔗 https://movie-recommendation-system-q4wtijvju43tsa8bt55r2t.streamlit.app/
+
+- Content-based recommendation engine
+- NLP-based similarity matching
+- End-to-end ML workflow
 
 ## 📈 GitHub Stats
 
