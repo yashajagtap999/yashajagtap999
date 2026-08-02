@@ -135,6 +135,18 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 ---
 
+### 🌾 AgroVision – Smart Agricultural Platform
+
+🌐 Website: https://agro-vision-ai-powered-farming-plat.vercel.app
+
+AI-powered smart farming platform for data-driven agricultural decisions
+AI Crop & Weather Intelligence using soil NPK, pH, temperature, humidity, and live GPS-based weather forecasts
+Government Scheme Recommendation System for farmer eligibility
+Document AI OCR for extracting information from Aadhaar cards and 7/12 land records
+Multilingual Voice Assistant supporting 7 regional languages
+Farming video tutorials and AI-powered crop guidance
+Deployed using Vercel (Frontend) and Render (Backend)
+
 ### 🎬 Movie Recommendation System
 🔗 https://movie-recommendation-system-q4wtijvju43tsa8bt55r2t.streamlit.app/
 
