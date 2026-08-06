@@ -42,8 +42,7 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 **Bachelor of Technology (BTech)**  
 **Artificial Intelligence & Machine Learning (AI & ML)**  
-📌 Third Year (TY)  
-📊 **CGPA: 9.6**
+📊 **CGPA: 9.2**
 
 ---
 
