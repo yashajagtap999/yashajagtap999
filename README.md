@@ -29,7 +29,7 @@ Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 **TY BTech – Artificial Intelligence & Machine Learning**
+- 🎓 **LY BTech – Artificial Intelligence & Machine Learning**
 - 🔭 Working on **Machine Learning & Recommendation Systems**
 - 🌱 Learning **ML, NLP, Data Analytics & Model Deployment**
 - 👯 Open to collaborate on **Data Science / ML projects**
